@@ -1,0 +1,164 @@
+/* &display=swap */
+@import "null.css";
+/* ================================================================ */
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+@font-face {
+   font-family: "CircularStd";
+   src: url('../fonts/CircularStd-Bold.woff2') format("woff2"), url('../fonts/CircularStd-Bold.woff') format("woff");
+   font-weight: 700;
+   font-style: normal;
+	font-display: swap; 
+}
+@font-face {
+   font-family: "CircularStd";
+   src: url('../fonts/CircularStd-Black.woff2') format("woff2"), url('../fonts/CircularStd-Black.woff') format("woff");
+   font-weight: 900;
+   font-style: normal;
+	font-display: swap; 
+}
+.header {
+	font-family: "Lato";
+	font-weight: 900;
+   font-style: normal;
+	font-size: 46px; 
+	line-height: 130%;
+	width: 847px;
+	margin-top: 190.1px;
+	margin-left: 308px;
+	color: #1E212C;
+}
+.data {
+	font-family: "CircularStd";
+	font-weight: 400;
+   font-style: normal;
+	font-size: 26px;
+	width: 847px;
+   margin-top: 26.07px;
+	margin-left: 308px;
+	color: #424551
+}
+img {
+	margin-top: 40.17px;
+	margin-left: 308px;
+	width: 847px;
+}
+.text {
+	font-family: "Lato";
+	font-weight: 700;
+   font-style: normal;
+	margin-left: 308px;
+	margin-top: 60.15px;
+	width: 847px;
+	color: #1E212C;
+	font-size: 20px;
+	line-height: 150%;
+}
+.text-2 {
+	font-family: "Lato"; 
+	font-weight: 400;
+	margin-top: 24.06px;
+	margin-left: 308px;
+	font-size: 16px;
+	line-height: 160%;
+	width: 847px;
+	height: 90.23px;
+	color: #424551
+}
+.text-3 {
+	font-family: "Lato";
+	font-weight: 700;
+   font-style: normal;
+	font-size: 20px;
+	line-height: 150%;
+	width: 752px;
+	margin-left: 366px;
+	margin-top: 48.12px;
+	color: #1E212C;
+}
+.text-3 {
+	font-family: "Lato"; 
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	width: 752px;
+	margin-left: 366px;
+	margin-top: 48.12px;	
+	color: #1E212C;
+}
+.text-4 {
+	font-family: "Lato"; 
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-top: 48.12px;	
+	margin-left: 308px;
+	width: 847px;	
+	color: #424551;
+}
+.text-5 {
+	font-family: "Lato"; 
+	font-weight: 400;
+	font-size: 16px;
+	margin-left: 353.7px;
+	margin-top: 24.06px;
+	width: 568px;
+	color: #424551;
+}	
+.text-6 {
+	font-family: "Lato"; 
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-top: 24.06px;
+	margin-left: 308px;
+	width: 847px;
+	color: #424551;
+}
+.item-list {
+	background: url('../img/list.svg') 0 0 no-repeat;
+	padding: 0px 0px 0px 25px;
+	font-family: "Lato"; 
+	font-weight: 400;
+	margin-left: 308px;
+	margin-top: 24.06px;
+	color: #424551;
+}
+h6 {
+	font-family: "Lato"; 
+	font-weight: 700;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 150%;
+	margin-left: 1182px;
+	margin-top: 100px;
+	color: #1E212C;
+}
+h1 {
+	font-family: "Lato";
+	font-weight: 900;
+   font-style: normal;
+	font-size: 46px;
+	line-height: 130%;
+	margin-left: 1182px;
+	margin-top: 8px;
+	color: #1E212C;
+}
+.list-2 {
+	margin-top: 40px;
+}
+.item-list-2 {
+	background: url('../img/list.svg') 0 0 no-repeat;
+	padding: 0px 0px 0px 25px;
+	font-family: "Lato"; 
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 160%;
+	margin-left: 1182px;
+	width: 390px;
+	color: #424551;
+	margin-top: 12px 0px;
+}
+
+
